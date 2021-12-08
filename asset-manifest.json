@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.c6774dbe.chunk.css",
+    "main.css": "./static/css/main.d491cdbf.chunk.css",
     "main.js": "./static/js/main.7ee2b6d0.chunk.js",
     "main.js.map": "./static/js/main.7ee2b6d0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.27cdb9ff.js",
@@ -8,7 +8,7 @@
     "static/js/2.2a6a899b.chunk.js": "./static/js/2.2a6a899b.chunk.js",
     "static/js/2.2a6a899b.chunk.js.map": "./static/js/2.2a6a899b.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.c6774dbe.chunk.css.map": "./static/css/main.c6774dbe.chunk.css.map",
+    "static/css/main.d491cdbf.chunk.css.map": "./static/css/main.d491cdbf.chunk.css.map",
     "static/js/2.2a6a899b.chunk.js.LICENSE.txt": "./static/js/2.2a6a899b.chunk.js.LICENSE.txt",
     "static/media/delete-icon.7c4ae41d.svg": "./static/media/delete-icon.7c4ae41d.svg",
     "static/media/TodoApp.scss": "./static/media/done-icon.98376cc9.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.27cdb9ff.js",
     "static/js/2.2a6a899b.chunk.js",
-    "static/css/main.c6774dbe.chunk.css",
+    "static/css/main.d491cdbf.chunk.css",
     "static/js/main.7ee2b6d0.chunk.js"
   ]
 }
